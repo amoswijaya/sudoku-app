@@ -50,7 +50,7 @@ export default function SugokuGame({ route, navigation }) {
 }
 
 const styles = StyleSheet.create({
-  container: {
+  container: { 
     marginVertical: 40
   },
   text: {
